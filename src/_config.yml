@@ -8,6 +8,7 @@ mathjax: true
 baseurl: /morea-news-page-example
 exclude: [morea]
 morea_theme: spacelab
+url: http://morea-framework.github.io/morea-news-page-example
 morea_navbar_items:
   #- Prerequisites
   - Modules
