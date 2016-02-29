@@ -1,11 +1,11 @@
-name: Morea CORE (Change me)
+name: Morea News Page Example
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /core
+baseurl: /morea-news-page-example
 exclude: [morea]
 morea_theme: spacelab
 morea_navbar_items:

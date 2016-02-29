@@ -1,5 +1,5 @@
 # Keep IntelliJ files out of github to reduce potential conflicts when others import.
 
 .idea
-core.iml
+morea-news-page-example.iml.iml
 src/_site
